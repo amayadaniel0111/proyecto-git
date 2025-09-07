@@ -17,7 +17,7 @@ body {
 
 h1, h2 {
   text-align: center;
-  color: darkturquoise;
+  color: rgb(64, 65, 65);
 }
 
 form {
@@ -40,8 +40,8 @@ input, select {
 button {
   margin-top: 20px;
   padding: 10px;
-  background-color: palegreen;
-  color: rgb(224, 228, 15);
+  background-color: yellow;
+  color: white;
   border: none;
   border-radius: 5px;
   cursor: pointer;
